@@ -108,9 +108,8 @@ display: flex;
 
 .main__img1{
 	position:absolute	;
-	bottom: 630px;
-	right: 25%;
-
+	bottom: 50%;
+  left: 60%;
 }
 
 .main__img2 {
